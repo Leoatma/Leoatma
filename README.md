@@ -9,8 +9,10 @@
 
 - 😊 Fun fact   **I used to be a yoga teacher! **
 
-<h3 align="left">Connect with me:</h3>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leaguiar/)
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/leoatma)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/leaguiar/)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
