@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Web Development (HTML | CSS | JS) and Java Fundamentals. I'm also challenging myself with data structures and algorithms skills.**
 
-- 💬 Ask me about **#webdevelopment #html, #css, #javascript, #java, #linux, #cloudcomputing, #aws**
+- 💬 Ask me about **WebDevelopment, JavaScript, Java, HTML, CSS, Linux, Cloud Computing, AWS**
 
 - 📫 How to reach me **lsaguiar.code@gmail.com**
 
-- ⚡ Fun fact **I used to be a yoga teacher!**
+- ⚡ Fun fact - **I used to be a yoga teacher! **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
