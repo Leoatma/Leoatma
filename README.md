@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Leandro Aguiar</h1>
-<h3 align="center">A tireless student of Life - I'm inspired by programming</h3>
+<h3 align="center">Hi 👋, I'm Leandro Aguiar</h3>
+<h4 align="center">A tireless student of Life - I'm inspired by programming</h4>
+
+
 
 - 🌱 I’m currently learning **Web Development (HTML | CSS | JS) and Java Fundamentals. I'm also challenging myself with data structures and algorithms skills.**
 
@@ -7,7 +9,7 @@
 
 - 😊 Fun fact:  **I used to be a yoga teacher!**
 
-<h3> Contact </h3>
+<h4> Contact </h4>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/leoatma)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/leaguiar/)
