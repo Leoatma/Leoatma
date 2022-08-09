@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Web Development (for now HTML | CSS | JS) at **Rockeseat**. 
  
-- ⚡ I'm also challenging myself with Java, Data Structures and Algorithms skills.**
+- ⚡ I'm also challenging myself with Java, Data Structures and Algorithms skills.
 
 - 💬 Ask me about **WebDevelopment, JavaScript, HTML, CSS, Cloud Computing, AWS**
 
