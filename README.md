@@ -5,9 +5,7 @@
 
 - 💬 Ask me about **WebDevelopment, JavaScript, Java, HTML, CSS, Linux, Cloud Computing, AWS**
 
-- 📫 How to reach me **lsaguiar.code@gmail.com**
-
-- 😊 Fun fact   **I used to be a yoga teacher! **
+- 😊 Fun fact:  **I used to be a yoga teacher!**
 
 <h3> Contact </h3>
 
