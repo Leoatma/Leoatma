@@ -4,11 +4,11 @@
 
 
 
-- 🌱 I'm currently studying Systems Analysis and Development at UNIFACS through the Ânima Ecosystem,, and learning Web Development (for now HTML | CSS | JS) at **Rockeseat**. 
+- 🌱 I'm currently studying Systems Analysis and Development at UNIFACS through the Ânima Ecosystem.
  
 - ⚡ I'm also challenging myself with Java, Data Structures and Algorithms skills.
 
-- 💬 Ask me about **WebDevelopment, JavaScript, HTML, CSS, Cloud Computing, AWS**
+- 💬 Ask me about **Java, WebDevelopment, JavaScript, HTML, CSS, Cloud Computing, AWS**
 
 - 😊 Fun fact:  **I used to be a yoga teacher!**
 
