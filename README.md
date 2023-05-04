@@ -8,7 +8,6 @@
 
 - 💬 Ask me about **Java, Python, Cloud Computing, AWS**
 
-- 😊 Fun fact:  **I used to be a yoga teacher!**
 
 <h4> Contact: </h4>
 
