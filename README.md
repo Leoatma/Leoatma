@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently studying Systems Analysis and Development at UNIFACS through the Ânima Ecosystem
 
-- 💬 Ask me about **Java, Python, Cloud Computing, AWS**
+- 💬 Ask me about **Java, OOP, Data Structures and Problem Solution**
 
 
 <h4> Contact: </h4>
