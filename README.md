@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I'm currently studying Systems Analysis and Development at UNIFACS through the Ânima Ecosystem
+- 🌱 I'm currently studying Systems Analysis and Development at UNIFACS through the Ânima Ecosystem, and other courses. I'm interested in learning more about back-end programming, 
 
 - 💬 Ask me about **Java, OOP, Data Structures and Problem Solution**
 
